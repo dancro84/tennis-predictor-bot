@@ -18,7 +18,7 @@ Original file is located at
 # Tested for python-telegram-bot v20+
 # ================================
 
-!pip install python-telegram-bot --quiet pandas scikit-learn joblib --quiet
+
 
 import os, math, re, joblib
 from datetime import datetime
